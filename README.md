@@ -1,1 +1,3 @@
 # GitKertausRepo
+
+Nimi: Oma Nimi
