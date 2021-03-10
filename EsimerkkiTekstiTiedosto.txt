@@ -1,5 +1,7 @@
 Esimmerkki Commit Teksti tiedosto
 
+Alla olevat rivit on kirjoitettu GitHub Desktopin kautta. Tämä rivi on kirjoitettu feature-feature02 branchillä
+
 Nämä Rivit on Kirjoitettu GitHub Desktopin kautta Develop Branchiin
 Nämä Rivit on Kirjoitettu GitHub Desktopin kautta Develop Branchiin
 Nämä Rivit on Kirjoitettu GitHub Desktopin kautta Develop Branchiin
