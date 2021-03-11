@@ -505,7 +505,7 @@ GameObject:
   - component: {fileID: 535643720}
   - component: {fileID: 535643719}
   m_Layer: 0
-  m_Name: New Text
+  m_Name: asdawd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -519,7 +519,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 535643718}
-  m_Text: OmegaLul
+  m_Text: gesgfsegse
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
